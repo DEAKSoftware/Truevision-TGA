@@ -1,0 +1,1 @@
+# Truevision-TGA-File-Format-Specification
