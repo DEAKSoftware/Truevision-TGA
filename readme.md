@@ -20,6 +20,6 @@ The original documents was a bit tricky to find initially and existing PDF copie
 3. Companion CD-ROM for Encyclopaedia of Graphics File Formats, Second Edition (FTP) <br>
    <ftp://ftp.ora.com/pub/examples/gff/>
 
-4. Companion CD-ROM Encyclopaedia of Graphics File Formats, (ISO Image) <br>
+4. Companion CD-ROM Encyclopaedia of Graphics File Formats (ISO Image) <br>
    <https://archive.org/details/EncyclopediaOfGraphicsFileFormatsCompanionCd-rom>
 
