@@ -4,7 +4,7 @@ Dominik De&aacute;k
 
 ## About
 
-This repository maintains the official [Truevision TGA File Format Specification 2.0](./truevision-tga.pdf) as a PDF document. The specification was officially released by Truevision and it appeared as a collection of PostScript documents alongside with the book titled, Encyclopaedia of Graphics File Formats [1]. The companion CD-ROM for the book is also available on-line [2, 3, 4].  
+This repository unofficially maintains the official [Truevision TGA File Format Specification 2.0](./truevision-tga.pdf) as a PDF document. The specification was officially released by Truevision and it appeared as a collection of PostScript documents alongside with the book titled, Encyclopaedia of Graphics File Formats [1]. The companion CD-ROM for the book is also available on-line [2, 3, 4].  
 
 The original documents was a bit tricky to find initially and existing PDF copies circulating on the internet was of poor quality. Therefore, I decided to convert the original PostScript documents into a good quality PDF format and publish it on this repository. I used [Ghostscript](http://www.ghostscript.com/) for the conversion task.
 
